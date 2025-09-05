@@ -29,8 +29,8 @@ Requirements: **CMake** and **deal.II**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/nmpde-projects.git
-cd nmpde-projects/coupled-darcy-stokes
+git clone https://github.com/FrancescoEgidioFaggion/Faggion_Silvestri_DarcyStokesProblem/tree/main
+cd Faggion_Silvestri_DarcyStokesProblem
 
 # Create build directory
 mkdir build && cd build
