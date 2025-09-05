@@ -60,17 +60,14 @@ Polynomial degrees and solver settings can be modified in `src/main.cpp`.
 ---
 
 ## Tests
-Two sample tests are implemented:
-1. **Manufactured solution (sin/cos forcing terms)** → checks convergence.  
-2. **Inflow/Outflow setup** → tests coupling between Stokes and Darcy regions.
+Sample tests are implemented:
+ **Manufactured solution with trigonometric functions** 
+ **Manufactured solution with polynomial functions**
+
 
 ---
 
-## Author
-Francesco Faggion (Politecnico di Milano)
+## Authors
+Francesco Egidio Faggion 
+Silvestri Martina
 
----
-
-## Delivery Notes
-- Code delivery via pull request to the original repository.  
-- Report sent by email to *michele.bucelli@polimi.it*.  
