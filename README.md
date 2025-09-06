@@ -26,6 +26,7 @@ The code is written in **C++** with the [deal.II](https://www.dealii.org/) finit
 
 ## Compilation
 Requirements: **CMake** and **deal.II**.
+Download the meshes folder from: https://drive.google.com/drive/folders/1b53ZrOJ64bX6KrA3baiffa9-QB8Bxg3C?usp=share_link
 
 ```bash
 # Clone the repository
